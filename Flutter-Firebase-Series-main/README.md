@@ -4,13 +4,25 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# task1
 
-A few resources to get you started if this is your first Flutter project:
+A new Flutter project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Step 1: Sign up
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Step 2: Add new task
+
+
+Step 3: Perform CRUD operations
+
+
+Step 4: Create - Pressing floating action button 
+        Read - From the main page
+        Update-  Press on the task 
+        Delete - Long press on the task 
+
+
+Step 5: Add multiple tasks  
+
+
